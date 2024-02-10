@@ -5,3 +5,9 @@ headline{
   font: 'Josefin Sans';
   font-weight: 700px
 }
+title{
+  font-weight:  400;
+}
+text{
+  font-weight: 300;
+}
