@@ -1,13 +1,12 @@
 body{
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Roboto Slab', serif; 
 }
 headline{
-  font: 'Josefin Sans';
-  font-weight: 700px
+  font-weight: 900px
 }
 title{
-  font-weight:  400;
+  font-weight: 200;
 }
 text{
-  font-weight: 300;
+  font-weight: 200px;
 }
