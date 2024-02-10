@@ -1,5 +1,7 @@
-headline{
+body{
   font-family: C, sans-serif;
+}
+headline{
   font: 'Josefin Sans';
   font-weight: 700px
 }
