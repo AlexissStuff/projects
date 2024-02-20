@@ -1,6 +1,3 @@
-// <uniquifier>: Use a uniquifier for the class name
-// <weight>: Use a value from 100 to 900
-
 .strong {
   font-family: "Lexend Deca", sans-serif;
   font-optical-sizing: auto;
@@ -8,14 +5,14 @@
   font-style: normal;
 }
   
-.lexend-deca-<regular> {
+.regular {
   font-family: "Lexend Deca", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
 }
 
-.lexend-deca-<thin> {
+.thin {
   font-family: "Lexend Deca", sans-serif;
   font-optical-sizing: auto;
   font-weight: 100;
